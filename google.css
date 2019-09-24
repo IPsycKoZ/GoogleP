@@ -1,0 +1,40 @@
+body
+{background-color: #f2f2f2 }
+
+header
+{
+	position: right;
+	background: 
+	top: 0px;
+	width; 99%;
+}
+
+
+.boutons
+{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 20px 0 0 0;
+}
+
+footer
+{
+	position: absolute;
+	background: #f2f2f2;
+	bottom: 0px;
+	width: 99%;}
+
+footer ul li
+{display: inline;}
+.droite
+{float:right}
+<body class= 
+
+{
+border: none;
+    border-radius: 5px;
+    height: 0px;
+    width: 456px;
+    margin-bottom: 30px;
+}
